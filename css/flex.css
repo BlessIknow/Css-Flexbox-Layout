@@ -14,15 +14,15 @@ body {
 /******************************************
 /* LAYOUT
 /*******************************************/
-.links{
+.links {
   text-align: center;
 }
-.links a{
-  text-decoration:none;
-  color: white
+.links a {
+  text-decoration: none;
+  color: white;
 }
-.links button{
-  background:red;
+.links button {
+  background: red;
 }
 
 main {
@@ -39,7 +39,7 @@ h1 {
 p {
   color: hsla(0, 0%, 100%, 0.75);
   font-weight: 400;
-  font-size: .8em;
+  font-size: 0.8em;
   font-family: "Lexend Deca", sans-serif;
 }
 button {

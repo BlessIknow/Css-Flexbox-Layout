@@ -14,6 +14,17 @@ body {
 /******************************************
 /* LAYOUT
 /*******************************************/
+.links{
+  text-align: center;
+}
+.links a{
+  text-decoration:none;
+  color: white
+}
+.links button{
+  background:red;
+}
+
 main {
   display: flex;
   width: 50%;

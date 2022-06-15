@@ -14,17 +14,17 @@ body {
 /******************************************
 /* LAYOUT
 /*******************************************/
-.links {
-  text-align: center;
-}
-.links a {
-  text-decoration: none;
-  color: white;
-}
-.links button {
-  background: red;
+nav {
+  display: flex;
+  justify-content: space-around;
+  background: #01aefd;
+  padding: 15px;
 }
 
+nav a {
+  text-decoration: none;
+  color: beige;
+}
 main {
   display: flex;
   width: 50%;
